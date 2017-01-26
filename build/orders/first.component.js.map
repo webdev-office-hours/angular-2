@@ -1,0 +1,1 @@
+{"version":3,"file":"first.component.js","sourceRoot":"","sources":["../../app/orders/first.component.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAA0B,eAAe,CAAC,CAAA;AAoC1C;IAAA;IAA6B,CAAC;IAlC9B;QAAC,gBAAS,CAAE;YACZ,QAAQ,EAAE,QAAQ;YAClB,SAAS,EAAE;gBACP,4BAA4B;aAC/B;YACD,QAAQ,EAAE,qlCA2BG;SACZ,CAAC;;sBAAA;IAC2B,qBAAC;AAAD,CAAC,AAA9B,IAA8B;AAAjB,sBAAc,iBAAG,CAAA"}
